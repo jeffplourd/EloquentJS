@@ -1,3 +1,3 @@
-This repository holds the questions and solutions I completed to the challenges in Eloquent JavaScript. For some questions I was not able to find the answers on the first try, so I looked the answers "in the back of the book", and then attempted the challenge again on another day.
+This repository holds the questions and solutions I completed to the challenges in Eloquent JavaScript. For some questions I was not able to find the answers on the first try, so I looked at the answers "in the back of the book", and then attempted the challenge again on another day.
 
 I saved the documents as JavaScript files and copied the questions as comments to distiguish my answers (the code) from the questions (comments).
